@@ -48,6 +48,8 @@
 - [x] Similar Elements ทั้ง 5 หัวข้อ → `24-commands-similar-elements.md`
 - [x] Web Automation (7 คำสั่ง) → `25-commands-web-automation.md`
 - [x] Webpage (9 คำสั่ง) → `26-commands-webpage.md`
+- [x] Element (10 คำสั่ง) → `27-commands-element.md`
+- [x] Data Extraction (12 คำสั่ง) → `28-commands-data-extraction.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
