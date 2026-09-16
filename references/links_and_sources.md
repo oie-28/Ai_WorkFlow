@@ -48,6 +48,7 @@
 - OpenAPI Reference Index (สารบัญ endpoint — รอรายละเอียด) → บันทึกแล้วที่ `automa-docs/52-openapi-reference-index.md`
 - OpenAPI Auth/Account/Org + Task/File (user ถอดรายละเอียดมาให้) → บันทึกแล้วที่ `automa-docs/53-54`
 - OpenAPI Task History/Specs + Queue/Running + Job/Robot/App (user ถอดรายละเอียดมาให้) → บันทึกแล้วที่ `automa-docs/55-56-57`
+- Enterprise/Console + Python/Themes + Triggers/Integrations (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/58-59-60`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ

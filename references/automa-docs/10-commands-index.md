@@ -79,6 +79,9 @@
 - [x] OpenAPI Task History + Specs → `55-openapi-task-history-specs.md`
 - [x] OpenAPI Queue + Task Running → `56-openapi-queue-taskrunning.md`
 - [x] OpenAPI Job + Logs + Robot + App → `57-openapi-job-robot-app.md`
+- [x] Enterprise + Console → `58-enterprise-console.md`
+- [x] Python & Coding + Themes → `59-python-coding-themes.md`
+- [x] Triggers + Integrations + PiP/Lock Screen → `60-triggers-integrations.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
