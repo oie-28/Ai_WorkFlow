@@ -98,6 +98,9 @@
 - [x] Shadow DOM + Multi-tab + Variable Scope (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `74-advanced-tech-scope.md`
 - [x] Project/Community + Sales/Contacts (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `75-integrations-project-sales.md`
 - [x] Security + HA/DR + Performance (รายละเอียดใหม่) → `76-enterprise-security-performance.md`
+- [x] Enterprise Architecture + Governance + Maintenance → `77-enterprise-architecture.md`
+- [x] Anti-Scraping & Proxy → `78-anti-scraping-proxy.md`
+- [x] Plugins/SDK + AI Vision/Agents + PiP → `79-plugins-ai-pip.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
