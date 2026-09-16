@@ -36,6 +36,8 @@
 - Webpage 9 คำสั่ง (pop-ups/navigate/wait-load/stop/scroll/JS/tab list/cookie — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/26-commands-webpage.md`
 - Element 10 คำสั่ง (wait/drag/password/dropdown/checkbox/set value-attribute/get/related — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/27-commands-element.md`
 - Data Extraction 12 คำสั่ง (extract/screenshot/details/cookies/network monitor — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/28-commands-data-extraction.md`
+- Pop-up Handling 5 คำสั่ง (upload/download/dialog — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/29-commands-popup-handling.md`
+- Software Automation + Element (win) + Window (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/30-commands-desktop-win.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ

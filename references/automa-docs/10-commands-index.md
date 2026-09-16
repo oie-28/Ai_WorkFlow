@@ -50,6 +50,8 @@
 - [x] Webpage (9 คำสั่ง) → `26-commands-webpage.md`
 - [x] Element (10 คำสั่ง) → `27-commands-element.md`
 - [x] Data Extraction (12 คำสั่ง) → `28-commands-data-extraction.md`
+- [x] Pop-up Handling (5 คำสั่ง) → `29-commands-popup-handling.md`
+- [x] Software Automation + Element (win) + Window → `30-commands-desktop-win.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
