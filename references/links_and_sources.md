@@ -60,6 +60,7 @@
 - Architecture/Proxy/Plugins-AI-Vision/PiP/Maintenance (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/77-78-79`
 - CRM/Project + DevOps/Debugging/Finance ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/80-81`
 - Email/Identity/Messaging + Deploy/Migration/Scrape ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/82-83`
+- Engine/Branch/NotebookLM + Community ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/84-85`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
