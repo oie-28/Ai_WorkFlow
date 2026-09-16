@@ -62,6 +62,7 @@
 - Email/Identity/Messaging + Deploy/Migration/Scrape ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/82-83`
 - Engine/Branch/NotebookLM + Community ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/84-85`
 - Dialogs/OS/ConvertKit/Python-API ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/86-dialogs-os-extras.md`
+- SaaS + AI-FAQ + Flow extras ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/87-88`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
