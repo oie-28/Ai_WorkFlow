@@ -67,6 +67,9 @@
 - [x] AI Automation (Automa AI) → `43-commands-ai-automation.md`
 - [x] Flow (Subflow) + App & System + Resource Files → `44-commands-flow-system-resource.md`
 - [x] Browser/File/Scraping ชุดรวม → `45-commands-browser-file-scrape.md`
+- [x] PDF + Word + Captcha + DB เพิ่มเติม → `46-commands-pdf-word-captcha-db.md`
+- [x] Android เต็มชุด → `47-commands-android.md`
+- [x] OS-level + Network (ทบทวน) → `48-commands-os-network-recap.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
