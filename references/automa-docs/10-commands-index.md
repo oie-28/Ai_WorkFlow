@@ -94,6 +94,8 @@
 - [x] Virtual Desktop + macOS + RDP ขั้นสูง (ของใหม่) → `70-virtual-mac-rdp.md`
 - [x] Telegram & Teams ละเอียด (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `71-telegram-teams-detail.md`
 - [x] NoSQL + Comms (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `72-integrations-nosql-comms.md`
+- [x] Marketing/HR + Ops + Slides (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `73-integrations-marketing-ops.md`
+- [x] Shadow DOM + Multi-tab + Variable Scope (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `74-advanced-tech-scope.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

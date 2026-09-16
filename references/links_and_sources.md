@@ -55,6 +55,7 @@
 - AI & OCR + Try-Finally ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/69-ai-ocr-finally.md`
 - Virtual Desktop/macOS/RDP + Telegram/Teams ละเอียด (ส่วนใหม่, ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/70-71`
 - NoSQL + Comms ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/72-integrations-nosql-comms.md`
+- Marketing/Ops/Slides + Shadow/Multi-tab/Scope ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/73-74`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
