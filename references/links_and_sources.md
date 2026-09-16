@@ -26,6 +26,9 @@
   [For each list](https://docs.goautoma.com/rpa/en-US/711605038084767744) /
   [For each dict](https://docs.goautoma.com/rpa/en-US/711604147847938048) /
   [Infinite](https://docs.goautoma.com/rpa/en-US/711603091046633472)) → บันทึกแล้วที่ `automa-docs/20-commands-loops-core.md`
+- Loop control ([Next](https://docs.goautoma.com/rpa/en-US/711601782492966912) /
+  [Exit](https://docs.goautoma.com/rpa/en-US/711600530402258944) /
+  [Loop ends](https://docs.goautoma.com/rpa/en-US/711599584589103104)) → บันทึกแล้วที่ `automa-docs/21-commands-loops-control.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
