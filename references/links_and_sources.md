@@ -16,6 +16,8 @@
   - คำสั่ง Extract Data ละเอียด: https://docs.goautoma.com/rpa/en-US/711562182393577472 ← ยังไม่บันทึก
 - Capturing Elements (จับ/แก้/Verify/Fix/Xpath/FAQ) → บันทึกแล้วที่ `automa-docs/13-capturing-elements.md`
 - Element Anchors → บันทึกแล้วที่ `automa-docs/14-element-anchors.md`
+- Cloud Element Library (แชร์ element ข้าม App) → บันทึกแล้วที่ `automa-docs/15-cloud-element-library.md`
+- Image Library (image element + ชุดคำสั่ง Mouse & Keyboard / Image) → บันทึกแล้วที่ `automa-docs/16-image-library.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
