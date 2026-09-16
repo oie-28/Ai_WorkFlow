@@ -20,6 +20,7 @@
 - Image Library (image element + ชุดคำสั่ง Mouse & Keyboard / Image) → บันทึกแล้วที่ `automa-docs/16-image-library.md`
 - Magic Command (สั่งด้วยแชท + Smart Fix + โควตา) → บันทึกแล้วที่ `automa-docs/17-commands-magic-command.md`
 - Conditionals ทั้งตระกูล (If/Else/webpage contains/Element visible/multi/window/image/file/folder) → บันทึกแล้วที่ `automa-docs/18-commands-conditionals.md`
+- [Loop through Data Table](https://docs.goautoma.com/rpa/en-US/716545844522442752) → บันทึกแล้วที่ `automa-docs/19-commands-loop-through-data-table.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ

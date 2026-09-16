@@ -41,7 +41,7 @@
 ## สถานะการบันทึกเนื้อหา
 - [x] Magic Command → `17-commands-magic-command.md`
 - [x] Conditionals → `18-commands-conditionals.md`
-- [ ] Loops / Waits / Web Automation / Data Table / Excel / Data Processing / ที่เหลือ — รอ copy
+- [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
 ## วิธีส่ง
 เปิดหน้าหมวดในเบราว์เซอร์ตัวเอง → copy เนื้อหา → วางในแชท (หัวข้อความว่า "หมวด: ...")
