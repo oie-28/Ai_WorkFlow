@@ -1,0 +1,8 @@
+# กันไฟล์ลับ/ไฟล์ระบบหลุดขึ้น public
+.env
+*.env
+*token*
+*secret*
+__pycache__/
+.vscode/
+.DS_Store
