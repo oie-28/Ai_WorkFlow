@@ -103,6 +103,8 @@
 - [x] Plugins/SDK + AI Vision/Agents + PiP → `79-plugins-ai-pip.md`
 - [x] CRM + Project (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `80-integrations-crm-project.md`
 - [x] DevOps + Debugging + Stripe/Odoo (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `81-devops-debugging-finance.md`
+- [x] Email + Identity + Messaging (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `82-integrations-email-identity.md`
+- [x] Deploy + Migration + สูตรขูดเว็บ (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `83-deploy-migration-scrape.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
