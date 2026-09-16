@@ -11,6 +11,11 @@
 - [Interface หน้าต่าง Main/Editor](https://docs.goautoma.com/rpa/en-US/711663683285495808) → บันทึกแล้วที่ `automa-docs/08-interface.md`
 - [Core Concepts App/Flow/Command/Element/Variable/Wait/Loop/If](https://docs.goautoma.com/rpa/en-US/711662346181251072) → บันทึกแล้วที่ `automa-docs/09-core-concepts.md`
 - สารบัญหมวด Commands (19 หมวด) → บันทึกแล้วที่ `automa-docs/10-commands-index.md` (ยังไม่บันทึกเนื้อหา รอ copy ทีละหมวด)
+- Trigger (Scheduler/File/Hotkey/Email) → บันทึกแล้วที่ `automa-docs/11-trigger.md`
+- Top Bar: Data Extract + Record (หน้าอ้างอิง) → บันทึกแล้วที่ `automa-docs/12-topbar-dataextract-record.md`
+  - คำสั่ง Extract Data ละเอียด: https://docs.goautoma.com/rpa/en-US/711562182393577472 ← ยังไม่บันทึก
+- Capturing Elements (จับ/แก้/Verify/Fix/Xpath/FAQ) → บันทึกแล้วที่ `automa-docs/13-capturing-elements.md`
+- Element Anchors → บันทึกแล้วที่ `automa-docs/14-element-anchors.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
