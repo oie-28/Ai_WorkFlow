@@ -52,6 +52,7 @@
 - Workspace + Python/FAQ + Advanced Scenarios (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/61-62-63`
 - Android Setup + Team Integrations + Data/Finance Integrations (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/64-65-66`
 - Sales/Dev Integrations + Python modules/DataTypes/Dialogs ขั้นสูง (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/67-68`
+- AI & OCR + Try-Finally ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → บันทึกแล้วที่ `automa-docs/69-ai-ocr-finally.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ

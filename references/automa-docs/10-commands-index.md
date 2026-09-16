@@ -90,6 +90,7 @@
 - [x] JSON Helper + Database + Docs + Finance → `66-integrations-data-finance.md`
 - [x] Sales/CRM + Support + Dev + Cloud CMS → `67-integrations-sales-dev.md`
 - [x] Python modules + Data Types + Dialogs ขั้นสูง → `68-coding-datatypes-dialogs.md`
+- [x] AI & OCR + Try-Catch-Finally (ส่วนใหม่, ที่เหลือซ้ำไฟล์เดิม) → `69-ai-ocr-finally.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
