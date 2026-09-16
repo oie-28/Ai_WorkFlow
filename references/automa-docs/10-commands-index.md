@@ -65,6 +65,8 @@
 - [x] List + Dictionary (12 คำสั่ง) → `41-commands-data-list-dict.md`
 - [x] Datetime + CSV + JSON (11 คำสั่ง) → `42-commands-data-datetime-csv-json.md`
 - [x] AI Automation (Automa AI) → `43-commands-ai-automation.md`
+- [x] Flow (Subflow) + App & System + Resource Files → `44-commands-flow-system-resource.md`
+- [x] Browser/File/Scraping ชุดรวม → `45-commands-browser-file-scrape.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

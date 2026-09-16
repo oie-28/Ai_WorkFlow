@@ -42,6 +42,7 @@
 - Data Table + Excel + Worksheet + Data Processing ([Get length of text](https://docs.goautoma.com/rpa/en-US/711435759074918400) — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/34-35-36-37`
 - Text ขั้นสูง + Variables + Dialogs + Flow/Network/DB/OCR (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/38-39-40`
 - List/Dict + Datetime/CSV/JSON + [Automa AI](https://docs.goautoma.com/rpa/en-US/716540413654437888) (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/41-42-43`
+- Flow/Subflow + App & System + Resource + Browser/File/Scrape (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/44-45`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
