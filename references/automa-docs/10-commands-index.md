@@ -110,6 +110,7 @@
 - [x] Dialogs/OS/ConvertKit/Python-API ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → `86-dialogs-os-extras.md`
 - [x] SaaS เพิ่มเติม (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `87-integrations-saas-more.md`
 - [x] AI FAQ + Troubleshooting + Flow extras (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `88-ai-faq-flow-extras.md`
+- [x] Telegram fix + Deployment Checklist + KB Map — ปิดท้ายคลัง → `89-telegram-checklist-kbmap.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
