@@ -32,6 +32,8 @@
 - Loop พิเศษ (Similar Elements / Excel — user สรุปมา) → บันทึกแล้วที่ `automa-docs/22-commands-loops-special.md`
 - Waits ทั้ง 6 ตัว ([Wait for file](https://docs.goautoma.com/rpa/en-US/716548911156932608) + Element win/web + Wait + Image + window — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/23-commands-waits.md`
 - Similar Elements 5 หัวข้อ ([Android loop](https://docs.goautoma.com/rpa/en-US/753213265033871360) + Get Android/web + Loop web/win — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/24-commands-similar-elements.md`
+- Web Automation 7 คำสั่ง (Open/Profile/Get page/Click/Hover/Fill/Close — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/25-commands-web-automation.md`
+- Webpage 9 คำสั่ง (pop-ups/navigate/wait-load/stop/scroll/JS/tab list/cookie — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/26-commands-webpage.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
