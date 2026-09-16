@@ -93,6 +93,7 @@
 - [x] AI & OCR + Try-Catch-Finally (ส่วนใหม่, ที่เหลือซ้ำไฟล์เดิม) → `69-ai-ocr-finally.md`
 - [x] Virtual Desktop + macOS + RDP ขั้นสูง (ของใหม่) → `70-virtual-mac-rdp.md`
 - [x] Telegram & Teams ละเอียด (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `71-telegram-teams-detail.md`
+- [x] NoSQL + Comms (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `72-integrations-nosql-comms.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
