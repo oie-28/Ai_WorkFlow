@@ -52,6 +52,9 @@
 - [x] Data Extraction (12 คำสั่ง) → `28-commands-data-extraction.md`
 - [x] Pop-up Handling (5 คำสั่ง) → `29-commands-popup-handling.md`
 - [x] Software Automation + Element (win) + Window → `30-commands-desktop-win.md`
+- [x] Data Extraction (win) → `31-commands-dataextraction-win.md`
+- [x] SAP (เฉพาะทาง) → `32-commands-sap.md`
+- [x] Mouse & Keyboard → `33-commands-mouse-keyboard.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

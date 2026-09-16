@@ -38,6 +38,7 @@
 - Data Extraction 12 คำสั่ง (extract/screenshot/details/cookies/network monitor — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/28-commands-data-extraction.md`
 - Pop-up Handling 5 คำสั่ง (upload/download/dialog — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/29-commands-popup-handling.md`
 - Software Automation + Element (win) + Window (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/30-commands-desktop-win.md`
+- Data Extraction (win) + SAP + Mouse & Keyboard (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/31-32-33`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
