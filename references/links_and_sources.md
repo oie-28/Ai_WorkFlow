@@ -39,6 +39,7 @@
 - Pop-up Handling 5 คำสั่ง (upload/download/dialog — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/29-commands-popup-handling.md`
 - Software Automation + Element (win) + Window (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/30-commands-desktop-win.md`
 - Data Extraction (win) + SAP + Mouse & Keyboard (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/31-32-33`
+- Data Table + Excel + Worksheet + Data Processing ([Get length of text](https://docs.goautoma.com/rpa/en-US/711435759074918400) — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/34-35-36-37`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
