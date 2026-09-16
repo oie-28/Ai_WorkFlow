@@ -38,6 +38,11 @@
 | 7 | Data Processing | แปลง/ล้างข้อมูลรายชื่อ |
 | — | ที่เหลือ (Magic/AI/Network/OS/Flow/Dialogs/Android/Market) | ส่งมาทีหลังได้เมื่อต้องใช้ |
 
+## สถานะการบันทึกเนื้อหา
+- [x] Magic Command → `17-commands-magic-command.md`
+- [x] Conditionals → `18-commands-conditionals.md`
+- [ ] Loops / Waits / Web Automation / Data Table / Excel / Data Processing / ที่เหลือ — รอ copy
+
 ## วิธีส่ง
 เปิดหน้าหมวดในเบราว์เซอร์ตัวเอง → copy เนื้อหา → วางในแชท (หัวข้อความว่า "หมวด: ...")
 ผมจะบันทึกเป็น `automa-docs/11-commands-<ชื่อหมวด>.md` ให้เอง
