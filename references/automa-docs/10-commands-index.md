@@ -59,6 +59,9 @@
 - [x] Excel (10 คำสั่ง) → `35-commands-excel.md`
 - [x] Excel Worksheet Management (5 คำสั่ง) → `36-commands-excel-worksheet.md`
 - [x] Data Processing Text+Number/Date (10 คำสั่ง) → `37-commands-data-processing.md`
+- [x] Text ขั้นสูง + Variables (7 คำสั่ง) → `38-commands-data-variables.md`
+- [x] Dialogs & Notifications → `39-commands-dialogs.md`
+- [x] Flow Control + Network + Database + OCR/Scripting → `40-commands-flow-network-db-ocr.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

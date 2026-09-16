@@ -40,6 +40,7 @@
 - Software Automation + Element (win) + Window (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/30-commands-desktop-win.md`
 - Data Extraction (win) + SAP + Mouse & Keyboard (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/31-32-33`
 - Data Table + Excel + Worksheet + Data Processing ([Get length of text](https://docs.goautoma.com/rpa/en-US/711435759074918400) — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/34-35-36-37`
+- Text ขั้นสูง + Variables + Dialogs + Flow/Network/DB/OCR (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/38-39-40`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
