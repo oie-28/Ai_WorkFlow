@@ -8,6 +8,8 @@
 - [Lesson 1.2 ส่งให้ถูกคน (If/Else)](https://docs.goautoma.com/rpa/en-US/849569451465052160) → บันทึกแล้วที่ `automa-docs/05-lesson1-2-message-right-person.md`
 - Lesson 2 Software Automation (สั่งโปรแกรมเดสก์ท็อป) → บันทึกแล้วที่ `automa-docs/06-lesson2-software-automation.md`
 - [Lesson 3 ขูดข้อมูลลง Excel](https://docs.goautoma.com/rpa/en-US/849569507802943488) → บันทึกแล้วที่ `automa-docs/07-lesson3-data-extraction-excel.md`
+- [Interface หน้าต่าง Main/Editor](https://docs.goautoma.com/rpa/en-US/711663683285495808) → บันทึกแล้วที่ `automa-docs/08-interface.md`
+- [Core Concepts App/Flow/Command/Element/Variable/Wait/Loop/If](https://docs.goautoma.com/rpa/en-US/711662346181251072) → บันทึกแล้วที่ `automa-docs/09-core-concepts.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
