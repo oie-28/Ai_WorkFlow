@@ -74,6 +74,8 @@
 - [x] Scripting + Notifications + reCAPTCHA → `50-commands-scripting-notify-captcha.md`
 - [x] Open API + Enterprise + Best Practices → `51-openapi-enterprise-practices.md`
 - [x] OpenAPI Reference Index (สารบัญ endpoint — รอรายละเอียดทีละหมวด) → `52-openapi-reference-index.md`
+- [x] OpenAPI Auth + Account + Org → `53-openapi-auth-account.md`
+- [x] OpenAPI Task Execution + File → `54-openapi-task-file.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

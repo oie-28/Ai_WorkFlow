@@ -46,6 +46,7 @@
 - PDF/Word/Captcha/DB + Android + OS/Network ทบทวน (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/46-47-48`
 - Android System + Scripting/Notify/reCAPTCHA + OpenAPI/Enterprise/Practices (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/49-50-51`
 - OpenAPI Reference Index (สารบัญ endpoint — รอรายละเอียด) → บันทึกแล้วที่ `automa-docs/52-openapi-reference-index.md`
+- OpenAPI Auth/Account/Org + Task/File (user ถอดรายละเอียดมาให้) → บันทึกแล้วที่ `automa-docs/53-54`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
