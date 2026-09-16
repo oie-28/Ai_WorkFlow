@@ -85,6 +85,9 @@
 - [x] Google & Microsoft Workspace → `61-integrations-workspace.md`
 - [x] Python ขั้นสูง + FAQ → `62-python-faq.md`
 - [x] Advanced Scenarios (OS/Web/Selector/Backup) → `63-advanced-scenarios.md`
+- [x] Android Setup → `64-android-setup.md`
+- [x] Slack + Jira + Enterprise Messaging → `65-integrations-team.md`
+- [x] JSON Helper + Database + Docs + Finance → `66-integrations-data-finance.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 

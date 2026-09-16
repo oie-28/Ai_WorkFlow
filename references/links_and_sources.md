@@ -50,6 +50,7 @@
 - OpenAPI Task History/Specs + Queue/Running + Job/Robot/App (user ถอดรายละเอียดมาให้) → บันทึกแล้วที่ `automa-docs/55-56-57`
 - Enterprise/Console + Python/Themes + Triggers/Integrations (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/58-59-60`
 - Workspace + Python/FAQ + Advanced Scenarios (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/61-62-63`
+- Android Setup + Team Integrations + Data/Finance Integrations (user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/64-65-66`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
