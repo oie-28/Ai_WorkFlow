@@ -29,6 +29,8 @@
 - Loop control ([Next](https://docs.goautoma.com/rpa/en-US/711601782492966912) /
   [Exit](https://docs.goautoma.com/rpa/en-US/711600530402258944) /
   [Loop ends](https://docs.goautoma.com/rpa/en-US/711599584589103104)) → บันทึกแล้วที่ `automa-docs/21-commands-loops-control.md`
+- Loop พิเศษ (Similar Elements / Excel — user สรุปมา) → บันทึกแล้วที่ `automa-docs/22-commands-loops-special.md`
+- Waits ทั้ง 6 ตัว ([Wait for file](https://docs.goautoma.com/rpa/en-US/716548911156932608) + Element win/web + Wait + Image + window — user ถอดมาให้ครบ) → บันทึกแล้วที่ `automa-docs/23-commands-waits.md`
 
 ## ไฟล์ที่บันทึกแล้ว (`references/automa-docs/`)
 - `01-introduction.md` — What is Automa / ติดตั้ง / บัญชี / ช่องติดต่อ
