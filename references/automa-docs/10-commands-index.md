@@ -107,6 +107,7 @@
 - [x] Deploy + Migration + สูตรขูดเว็บ (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `83-deploy-migration-scrape.md`
 - [x] Engine + Branch + NotebookLM (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `84-engine-branch-notebook.md`
 - [x] Community Comms (ของใหม่, ที่เหลือซ้ำไฟล์เดิม) → `85-community-comms.md`
+- [x] Dialogs/OS/ConvertKit/Python-API ส่วนใหม่ (ที่เหลือซ้ำไฟล์เดิม) → `86-dialogs-os-extras.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
