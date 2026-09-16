@@ -76,6 +76,9 @@
 - [x] OpenAPI Reference Index (สารบัญ endpoint — รอรายละเอียดทีละหมวด) → `52-openapi-reference-index.md`
 - [x] OpenAPI Auth + Account + Org → `53-openapi-auth-account.md`
 - [x] OpenAPI Task Execution + File → `54-openapi-task-file.md`
+- [x] OpenAPI Task History + Specs → `55-openapi-task-history-specs.md`
+- [x] OpenAPI Queue + Task Running → `56-openapi-queue-taskrunning.md`
+- [x] OpenAPI Job + Logs + Robot + App → `57-openapi-job-robot-app.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
