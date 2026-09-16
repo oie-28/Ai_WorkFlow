@@ -82,6 +82,9 @@
 - [x] Enterprise + Console → `58-enterprise-console.md`
 - [x] Python & Coding + Themes → `59-python-coding-themes.md`
 - [x] Triggers + Integrations + PiP/Lock Screen → `60-triggers-integrations.md`
+- [x] Google & Microsoft Workspace → `61-integrations-workspace.md`
+- [x] Python ขั้นสูง + FAQ → `62-python-faq.md`
+- [x] Advanced Scenarios (OS/Web/Selector/Backup) → `63-advanced-scenarios.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
