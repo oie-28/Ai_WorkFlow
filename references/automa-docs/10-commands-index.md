@@ -45,6 +45,7 @@
 - [x] Loop control (Next/Exit/Loop ends) → `21-commands-loops-control.md`
 - [x] Loop พิเศษ (Similar Elements / Excel) → `22-commands-loops-special.md`
 - [x] Waits ทั้ง 6 ตัว → `23-commands-waits.md`
+- [x] Similar Elements ทั้ง 5 หัวข้อ → `24-commands-similar-elements.md`
 - [x] Conditionals → `18-commands-conditionals.md`
 - [ ] Loops (ภาพรวม 7 แบบ + Exit/Next — รอ copy) — บันทึกแล้วเฉพาะ `Loop through Data Table` → `19-commands-loop-through-data-table.md`
 
